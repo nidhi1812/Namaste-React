@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "this is namaste react by Nidhi Gupta",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhi1812/Namaste-React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nidhi Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhi1812/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/nidhi1812/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
